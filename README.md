@@ -7,8 +7,8 @@ chgit<h1>Hi, I'm Ibrahim, an <a href="https://linkedin.com/in/Josh">IT Professio
   - [osTicket: Post-Installation Configuration](https://github.com/ibtechgit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ibtechgit/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/ibtechgit/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ibtechgit/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
